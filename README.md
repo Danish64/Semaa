@@ -1,5 +1,7 @@
 # Semaa
 
+## Motivation
+
 **Semaa** is a personal project which I am developing for enhancing my skills in react native and connecting with my passion for space and astronomy.
 
 ## Description
