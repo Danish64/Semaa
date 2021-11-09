@@ -9,6 +9,10 @@ import {
   View,
 } from 'react-native';
 
-const App = () => <Text>Semaa</Text>;
+const App = () => (
+  <View>
+    <Text>Semaa</Text>
+  </View>
+);
 
 export default App;

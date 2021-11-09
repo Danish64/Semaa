@@ -9,6 +9,11 @@ import App from '../App';
 // Note: test renderer must be required after react-native.
 import renderer from 'react-test-renderer';
 
-it('renders correctly', () => {
-  renderer.create(<App />);
-});
+describe('MockTest', () => {
+  it('renders correctly', () => {
+    // expect(2).toEqual(2)
+    renderer.create(<App />);
+  });
+})
+
+
