@@ -34,3 +34,4 @@
 - [ ] CI/CD
      - [X] Husky - Git Hooks -> used for linting and tests
 - [ ] API Integration
+- [ ] State Manager
