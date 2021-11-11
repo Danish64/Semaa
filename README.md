@@ -29,7 +29,7 @@
 ## Implementation 
 
 - [ ] UI Layout
-      - [X] Fonts Added - ProximaNova for english and Google's Noto for Urdu.   
+     - [X] Fonts - ProximaNova for english and Google's Noto for Urdu  
 - [ ] Tests
 - [ ] Debugging
 - [ ] CI/CD
@@ -38,4 +38,4 @@
 - [ ] API Integration
 - [ ] State Manager
 - [ ] App Monitoring and Error Tracking
-      - [X] Sentry Integrated
+     - [X] Sentry
