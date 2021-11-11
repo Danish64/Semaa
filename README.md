@@ -29,9 +29,13 @@
 ## Implementation 
 
 - [ ] UI Layout
+      - [X] Fonts Added - ProximaNova for english and Google's Noto for Urdu.   
 - [ ] Tests
 - [ ] Debugging
 - [ ] CI/CD
      - [X] Husky - Git Hooks -> used for linting and tests
+     - [ ] GitLab 
 - [ ] API Integration
 - [ ] State Manager
+- [ ] App Monitoring and Error Tracking
+      - [X] Sentry Integrated
