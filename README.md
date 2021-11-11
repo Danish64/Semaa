@@ -14,7 +14,7 @@
 
 - React Native
 - Typescript
-- Firebase
+- Realm & Firebase
 - Open Source space apis 
   - [NASA](https://api.nasa.gov/)
   - [SpaceX - GraphQL](https://api.spacex.land/graphql/) or [SpaceX - RestApi](https://github.com/r-spacex/SpaceX-API)
