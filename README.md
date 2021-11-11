@@ -19,3 +19,18 @@
   - [NASA](https://api.nasa.gov/)
   - [SpaceX - GraphQL](https://api.spacex.land/graphql/) or [SpaceX - RestApi](https://github.com/r-spacex/SpaceX-API)
   - [Launch Library 2](https://thespacedevs.com/llapi)
+
+
+## Project Roadmap
+
+- [ ] Feed
+- [ ] Profile
+
+## Implementation 
+
+- [ ] UI Layout
+- [ ] Tests
+- [ ] Debugging
+- [ ] CI/CD
+     - [X] Husky - Git Hooks -> used for linting and tests
+- [ ] API Integration
