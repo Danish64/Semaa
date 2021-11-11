@@ -11,7 +11,6 @@ import renderer from 'react-test-renderer';
 
 describe('MockTest', () => {
   it('renders correctly', () => {
-    // expect(2).toEqual(2)
     renderer.create(<App />);
   });
 })

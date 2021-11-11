@@ -14,6 +14,13 @@
 		6172F2D35A4C3AA820D92908 /* libPods-Semaa.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6423831EA8574132BED9D8CC /* libPods-Semaa.a */; };
 		7EF68E3733C33B6898317E18 /* libPods-Semaa-SemaaTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ABFE59519B596E51CEFDCCC0 /* libPods-Semaa-SemaaTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		E14169B8273D81EF00B8640D /* NotoNastaliqUrdu-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E14169B7273D81EF00B8640D /* NotoNastaliqUrdu-Bold.ttf */; };
+		E14169C1273D820900B8640D /* ProximaNova-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = E14169BB273D820800B8640D /* ProximaNova-Regular.otf */; };
+		E14169C2273D820900B8640D /* ProximaNovaA-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = E14169BC273D820800B8640D /* ProximaNovaA-Bold.otf */; };
+		E14169C3273D820900B8640D /* ProximaNova-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = E14169BD273D820900B8640D /* ProximaNova-Bold.otf */; };
+		E14169C4273D820900B8640D /* ProximaNovaA-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = E14169BE273D820900B8640D /* ProximaNovaA-Light.otf */; };
+		E14169C5273D820900B8640D /* NotoNastaliqUrdu-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E14169BF273D820900B8640D /* NotoNastaliqUrdu-Regular.ttf */; };
+		E14169C6273D820900B8640D /* ProximaNovaA-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = E14169C0273D820900B8640D /* ProximaNovaA-Regular.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +50,13 @@
 		ABFE59519B596E51CEFDCCC0 /* libPods-Semaa-SemaaTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Semaa-SemaaTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0A881CF5CF3F2B244570E2A /* Pods-Semaa.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Semaa.debug.xcconfig"; path = "Target Support Files/Pods-Semaa/Pods-Semaa.debug.xcconfig"; sourceTree = "<group>"; };
 		D00AAFFCFCFDA5787532823F /* Pods-Semaa.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Semaa.release.xcconfig"; path = "Target Support Files/Pods-Semaa/Pods-Semaa.release.xcconfig"; sourceTree = "<group>"; };
+		E14169B7273D81EF00B8640D /* NotoNastaliqUrdu-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NotoNastaliqUrdu-Bold.ttf"; path = "../../assets/fonts/NotoNastaliqUrdu-Bold.ttf"; sourceTree = "<group>"; };
+		E14169BB273D820800B8640D /* ProximaNova-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ProximaNova-Regular.otf"; path = "../../assets/fonts/ProximaNova-Regular.otf"; sourceTree = "<group>"; };
+		E14169BC273D820800B8640D /* ProximaNovaA-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ProximaNovaA-Bold.otf"; path = "../../assets/fonts/ProximaNovaA-Bold.otf"; sourceTree = "<group>"; };
+		E14169BD273D820900B8640D /* ProximaNova-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ProximaNova-Bold.otf"; path = "../../assets/fonts/ProximaNova-Bold.otf"; sourceTree = "<group>"; };
+		E14169BE273D820900B8640D /* ProximaNovaA-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ProximaNovaA-Light.otf"; path = "../../assets/fonts/ProximaNovaA-Light.otf"; sourceTree = "<group>"; };
+		E14169BF273D820900B8640D /* NotoNastaliqUrdu-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NotoNastaliqUrdu-Regular.ttf"; path = "../../assets/fonts/NotoNastaliqUrdu-Regular.ttf"; sourceTree = "<group>"; };
+		E14169C0273D820900B8640D /* ProximaNovaA-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ProximaNovaA-Regular.otf"; path = "../../assets/fonts/ProximaNovaA-Regular.otf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -116,6 +130,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				E14169B3273D816C00B8640D /* Resources */,
 				13B07FAE1A68108700A75B9A /* Semaa */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* SemaaTests */,
@@ -137,6 +152,20 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		E14169B3273D816C00B8640D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E14169BF273D820900B8640D /* NotoNastaliqUrdu-Regular.ttf */,
+				E14169BD273D820900B8640D /* ProximaNova-Bold.otf */,
+				E14169BB273D820800B8640D /* ProximaNova-Regular.otf */,
+				E14169BC273D820800B8640D /* ProximaNovaA-Bold.otf */,
+				E14169BE273D820900B8640D /* ProximaNovaA-Light.otf */,
+				E14169C0273D820900B8640D /* ProximaNovaA-Regular.otf */,
+				E14169B7273D81EF00B8640D /* NotoNastaliqUrdu-Bold.ttf */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		E233CBF5F47BEE60B243DCF8 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -145,7 +174,6 @@
 				6C97AB639B58BBB4B15BBE30 /* Pods-Semaa-SemaaTests.debug.xcconfig */,
 				1D0AE47A65C8663E3B452821 /* Pods-Semaa-SemaaTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -185,6 +213,7 @@
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
 				C8AC78B0264D0F9F6F6D630E /* [CP] Embed Pods Frameworks */,
 				ADC9DDC32298B72B3CF5DC8E /* [CP] Copy Pods Resources */,
+				EB8A8B694ED64330931599D1 /* Upload Debug Symbols to Sentry */,
 			);
 			buildRules = (
 			);
@@ -201,7 +230,7 @@
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1210;
+				LastUpgradeCheck = 1230;
 				TargetAttributes = {
 					00E356ED1AD99517003FC87E = {
 						CreatedOnToolsVersion = 6.2;
@@ -244,6 +273,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				E14169C2273D820900B8640D /* ProximaNovaA-Bold.otf in Resources */,
+				E14169C6273D820900B8640D /* ProximaNovaA-Regular.otf in Resources */,
+				E14169C1273D820900B8640D /* ProximaNova-Regular.otf in Resources */,
+				E14169C3273D820900B8640D /* ProximaNova-Bold.otf in Resources */,
+				E14169C5273D820900B8640D /* NotoNastaliqUrdu-Regular.ttf in Resources */,
+				E14169C4273D820900B8640D /* ProximaNovaA-Light.otf in Resources */,
+				E14169B8273D81EF00B8640D /* NotoNastaliqUrdu-Bold.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -263,7 +299,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "set -e\n\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh\n";
+			shellScript = "export SENTRY_PROPERTIES=sentry.properties\nexport EXTRA_PACKAGER_ARGS=\"--sourcemap-output $DERIVED_FILE_DIR/main.jsbundle.map\"\nset -e\n\nexport NODE_BINARY=node\n../node_modules/@sentry/cli/bin/sentry-cli react-native xcode ../node_modules/react-native/scripts/react-native-xcode.sh\n";
 		};
 		077E01280D4B4AD18B2E1770 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -377,6 +413,20 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Semaa/Pods-Semaa-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
+		EB8A8B694ED64330931599D1 /* Upload Debug Symbols to Sentry */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Upload Debug Symbols to Sentry";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export SENTRY_PROPERTIES=sentry.properties\n../node_modules/@sentry/cli/bin/sentry-cli upload-dsym";
+		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -431,13 +481,14 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 6C97AB639B58BBB4B15BBE30 /* Pods-Semaa-SemaaTests.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
 				INFOPLIST_FILE = SemaaTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -458,10 +509,11 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1D0AE47A65C8663E3B452821 /* Pods-Semaa-SemaaTests.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
 				INFOPLIST_FILE = SemaaTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -577,7 +629,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					/usr/lib/swift,
 					"$(inherited)",
@@ -636,7 +688,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					/usr/lib/swift,
 					"$(inherited)",
